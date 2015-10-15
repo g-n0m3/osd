@@ -1,0 +1,16 @@
+#+TITLE: Open-Source Design
+* About
+Web community dedicated to open-source principles applied to the world of design, including the use of open-source software, tools, and licensing.
+* Software
+** Graphic Design
+*** The Gimp
+*** Inkscape
+*** Scribus
+** Computer Aided Design (CAD) / 3D Modelling
+** Web design
+** Animation
+* Tools
+* Licensing
+* Tutorials
+* Forum
+* 
